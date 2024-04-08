@@ -61,3 +61,4 @@ print(f"R-squared: {model.score(X, y)}")
 # - Intercept represents the value of the dependent variable when all independent variables are zero.
 # - R-squared is a measure of how well the independent variables explain the variability of the dependent variable.
 
+print('Go Brewers!')
